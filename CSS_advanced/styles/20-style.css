@@ -169,7 +169,7 @@ ul.row {
 .row::after {
 	content: "";
 	display: table;
-	float: both;
+	clear: both;
 }
 
 .col-1-3 {
